@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TaskPerf1</string>
+    <string name="community">COMMUNITY</string>
+    <string name="no_information_given">No information given.</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="level_37">Level 37</string>
+    <string name="aristocrat">Aristocrat</string>
+    <string name="_100_xp">100 XP</string>
+    <string name="currently_offline">Currently Offline</string>
+    <string name="last_online">Last Online 36 hrs, 54 mins ago</string>
+    <string name="badges">Badges</string>
+    <string name="_39">39</string>
+    <string name="groups">Groups</string>
+    <string name="games">Games</string>
+    <string name="_182">182</string>
+    <string name="inventory">Inventory</string>
+    <string name="friends">Friends</string>
+    <string name="_210">210</string>
+</resources>
