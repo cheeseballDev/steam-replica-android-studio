@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">TaskPerf1</string>
     <string name="community">COMMUNITY</string>
-    <string name="no_information_given">No information given.</string>
+    <string name="no_information_given">Created by Matthew Luis N. Villar. BSIT 3-207</string>
     <string name="edit_profile">Edit Profile</string>
     <string name="level_37">Level 37</string>
     <string name="aristocrat">Aristocrat</string>
@@ -22,4 +22,9 @@
     <string name="_30">30</string>
     <string name="videos">Videos</string>
     <string name="_1">1</string>
+    <string name="tag">Tag</string>
+    <string name="news">News</string>
+    <string name="auth">Authenticator</string>
+    <string name="notifications">Notifications</string>
+    <string name="more">More</string>
 </resources>
